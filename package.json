@@ -52,7 +52,7 @@
     "read": "~1.0.4",
     "lru-cache": "~2.0.0",
     "node-gyp": "~0.8.1",
-    "fstream-npm": "~0.1.3",
+    "fstream-npm": "git://github.com/airbug/fstream-npm.git#master",
     "uid-number": "0",
     "archy": "0",
     "chownr": "0",
